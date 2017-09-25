@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class SolC
+public class PhoneList
 {
     public static void main(String args[])
     {
